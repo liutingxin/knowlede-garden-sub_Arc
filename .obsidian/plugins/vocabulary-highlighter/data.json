@@ -1,0 +1,35 @@
+{
+  "translucency": 0.5,
+  "enabled": true,
+  "globalProcessor": true,
+  "basic": {
+    "bg": "48, 51, 64",
+    "fg": "black",
+    "rank": 6000,
+    "enabled": true
+  },
+  "intermediate": {
+    "bg": "208, 103, 157",
+    "fg": "black",
+    "rank": 16500,
+    "enabled": true
+  },
+  "advanced": {
+    "bg": "95, 179, 161",
+    "fg": "black",
+    "rank": 30000,
+    "enabled": true
+  },
+  "specialized": {
+    "bg": "173, 215, 255",
+    "fg": "black",
+    "rank": 45000,
+    "enabled": true
+  },
+  "idiomatic": {
+    "bg": "115, 144, 170",
+    "fg": "black",
+    "rank": 240000,
+    "enabled": true
+  }
+}

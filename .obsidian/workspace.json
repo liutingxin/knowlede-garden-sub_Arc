@@ -1,0 +1,354 @@
+{
+  "main": {
+    "id": "c9f9ee027468f034",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3fd4fad38358868",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e56d36893fc611fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-INDEX.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49d8dfbba8804bf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "98bf65567db24074",
+        "type": "tabs",
+        "dimension": 69.7428139183056,
+        "children": [
+          {
+            "id": "aa5b6eac40ab5517",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d99e2950dbcef4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "review",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "664be766476e3a4c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "0fe66c35260def5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "48e5c6c0b999baf4",
+        "type": "tabs",
+        "dimension": 30.257186081694403,
+        "children": [
+          {
+            "id": "6ceecea4c8d42745",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0-INDEX.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ec24bc1f90b5ec69",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "0-INDEX.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7839556988911833,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "255e47e4612a9918",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0-INDEX.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7e30a4edfb2b609",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0-INDEX.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 364.5
+  },
+  "right": {
+    "id": "b04bae835715e106",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf92a8744d8764e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74a99c47a056553d",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d178f1d62390508d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e00d8d7eab509c8",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f383be492c3c736c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "d618045e10cab414",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "0-INDEX.md"
+              }
+            }
+          },
+          {
+            "id": "c1efaf782daf54d2",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          },
+          {
+            "id": "d506f61053c8101b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "efdd6d1ae07be479",
+            "type": "leaf",
+            "state": {
+              "type": "daily-note-outline",
+              "state": {
+                "activeSet": 0,
+                "activeGranularity": 0
+              }
+            }
+          },
+          {
+            "id": "c7aa04500155b180",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 546.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "dbfolder:创建一个新数据库表": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-spaced-repetition:复习卡片": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-stille:Toggle Stille": false,
+      "surfing:surfing-bookmark-manager": false,
+      "homepage:Open homepage": false,
+      "notion-like-tables:Create loom": false,
+      "cmdr:聚焦上方标签页组": false,
+      "cmdr:聚焦左侧标签页组": false,
+      "obsidian-projects:打开项目": false,
+      "translate:Open translation view": false,
+      "periodic-notes:Open today": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "e56d36893fc611fc",
+  "lastOpenFiles": [
+    "Spaces/3-Resource/个人效率系统打造/i3 wm.md",
+    "Spaces/3-Resource/个人效率系统打造/polybar.md",
+    "Spaces/3-Resource/个人效率系统打造/个人资源管理系统.md",
+    "Spaces/3-Resource/个人效率系统打造/2023-08-13整理给老妹的macos入门资源.md",
+    "Cards/永久笔记/ACCESS 笔记组织法.md",
+    "assets/0-INDEX/2024-08-15-09-59-15-克里希那穆提_ 你就是世界.md",
+    "Atlas/TOCs/§ TOCs.md",
+    "Spaces/3-Resource/计算机科学专题/计算机基础知识.md",
+    "Spaces/3-Resource/计算机科学专题/计算机操作系统.md",
+    "Sources/Articles/Security/pwn.md",
+    "Sources/Articles/Security/Atk.md",
+    "Spaces/3-Resource/计算机科学专题/ArchLinux 系统安装.md",
+    "Sources/Programing/Linux c/Linux 基础.md",
+    "0-INDEX.md",
+    "Sources/Programing/C++/Boost/Boost.md",
+    "smart-chats/UNTITLED CHAT 2024-07-28 22 13 11.md",
+    "Sources/Programing/C++/C++.md",
+    "未命名.md",
+    "AboutTheGarden.md",
+    "README.md",
+    "Pasted image 20240404192948.png",
+    "除法 与 取余的思考.md",
+    "Spaces/About Spaces.md",
+    "Spaces/Game/game.md",
+    "Spaces/Game",
+    "Sources/Programing/C++/Boost",
+    "Sources/Programing/C++",
+    "Cards/永久笔记/🧑叶峻峣.md",
+    "Sources/Articles/常青笔记阅读笔记/∑ 常青笔记阅读笔记.md",
+    "🧰 本库指南/Tutorials/» 我的复习回顾工作流.md",
+    "Atlas/Dashborads/Untitled 3.loom",
+    "Atlas/Dashborads/Untitled 2.loom",
+    "Atlas/Dashborads/Untitled 1.loom",
+    "Atlas/Dashborads/Untitled.loom",
+    "Sources/Discipline/数据结构/assets/递归/file-20240815172528005.png",
+    "Sources/Discipline/数据结构/assets/递归",
+    "Sources/Discipline/数据结构/assets",
+    "Sources/Discipline/数据结构",
+    "Sources/Programing/Linux c/assets/进程间通信/file-20240729071154817.png",
+    "Sources/Programing/Linux c/assets/进程间通信/file-20240729062830442.png",
+    "Sources/Tools/assets/机箱/image-20240718090353201.png",
+    "Sources/Tools/assets/机箱/image-20240718090111768.png",
+    "Sources/Tools/assets/机箱/image-20240718085950900.png",
+    "Sources/Tools/assets/机箱/image-20240718085445818.png",
+    "Sources/Tools/assets/机箱/image-20240718084546413.png",
+    "Sources/Tools/assets/机箱/image-20240718084448905.png",
+    "Atlas/Canvas/🧩 如何做读书笔记.canvas",
+    "Atlas/Canvas/🧩 如何构建第二大脑.canvas",
+    "Atlas/Canvas/🧩 白板canvas-示意图.canvas",
+    "Atlas/Canvas/🧩 2022年，我用3个app达成的3个小成就.canvas",
+    "Atlas/Canvas/🧩 canvas 嵌入高级视图使用示例.canvas",
+    "Spaces/0-Work/Canvas/测试环境集群部署资源.canvas",
+    "Spaces/0-Work/Canvas/映兔后端部署架构图.canvas",
+    "未命名.canvas",
+    "Spaces/0-Work/Canvas/业务开发的流程.canvas",
+    "Spaces/0-Work/Canvas/语义化搜索流程图.canvas"
+  ]
+}

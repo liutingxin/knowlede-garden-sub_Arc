@@ -1,0 +1,19 @@
+{
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "隐藏LICENSE文件和logseq文件夹",
+    "custom-theme",
+    "hide-status-bar"
+  ],
+  "theme": "moonstone",
+  "baseFontSize": 45,
+  "baseFontSizeAction": true,
+  "translucency": false,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "textFontFamily": "汉仪唐美人",
+  "interfaceFontFamily": "汉仪唐美人",
+  "monospaceFontFamily": "汉仪唐美人"
+}

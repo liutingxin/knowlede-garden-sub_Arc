@@ -1,0 +1,14 @@
+{
+  "attachmentFolderPath": "./assets/${filename}",
+  "autoRenameFiles": true,
+  "autoRenameFolder": true,
+  "convertImagesToJpeg": false,
+  "convertImagesOnDragAndDrop": false,
+  "dateTimeFormat": "",
+  "jpegQuality": 0.8,
+  "pastedFileName": "file-${date:YYYYMMDDHHmmssSSS}",
+  "pastedImageFileName": "",
+  "renameAttachmentsOnDragAndDrop": false,
+  "replaceWhitespace": false,
+  "toLowerCase": false
+}

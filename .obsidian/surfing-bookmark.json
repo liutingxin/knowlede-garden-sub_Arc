@@ -1,0 +1,24 @@
+{
+  "bookmarks": [
+    {
+      "id": "-1130796480",
+      "name": " Obsidian 中文帮助",
+      "url": "https://publish.obsidian.md/help-zh/%E7%94%B1%E6%AD%A4%E5%BC%80%E5%A7%8B",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1722653880000,
+      "modified": 1722653880000
+    }
+  ],
+  "categories": [
+    {
+      "value": "ROOT",
+      "text": "ROOT",
+      "label": "ROOT",
+      "children": []
+    }
+  ]
+}
